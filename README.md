@@ -26,9 +26,20 @@ Git is a free and open source distributed version control system designed to han
 
 <https://www.youtube.com/playlist?list=PLNMnAEqLBwmqnr-hhIa2z-2janfklDV4A>
 
+### Git & Github tutorial (Bangla Course)
+
+<https://corelab.info/student/courses/git-for-freshers/lessons/about-version-control>
+
 ### Git workflow (ByteByteGo)
 
 <https://github.com/ByteByteGoHq/system-design-101#git>
+
+<https://www.youtube.com/watch?v=e9lnsKot_SQ>
+
+
+### Git Branches (Tutorial)
+
+https://www.youtube.com/watch?v=e2IbNHi4uCI
 
 ### Interactive git learning
 
@@ -45,3 +56,13 @@ Git is a free and open source distributed version control system designed to han
 ### Slides on starting with git
 
 <https://www.slideshare.net/nicotourne/starting-with-git-git-hub-27464735>
+
+## Tools with git
+
+### Git Graph for VS Code
+
+<https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph>
+
+### Git Lens for VS Code
+
+<https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens>
