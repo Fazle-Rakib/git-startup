@@ -57,6 +57,9 @@ https://www.youtube.com/watch?v=e2IbNHi4uCI
 
 <https://www.slideshare.net/nicotourne/starting-with-git-git-hub-27464735>
 
+### Git cheat-sheet
+[View pdf on github](https://nbviewer.jupyter.org/github/Fazle-Rakib/git-startup/blob/c68e9953e8bde2a1d76cf68003444a4fe28404ef/git.pdf)
+
 ## Tools with git
 
 ### Git Graph for VS Code
